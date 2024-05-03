@@ -69,6 +69,3 @@ const fastTime = distance / 75;
 console.log(`It will take ${slowTime.toFixed(2)} hours to complete the trip.`)
 console.log(`It will take ${mediumTime} hours to complete the trip.`)
 console.log(`It will take ${fastTime} hours to complete the trip.`)
-
-
-// PART THREE ---------------------------------------
